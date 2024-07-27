@@ -117,8 +117,9 @@ Esta aplicación móvil de Marketplace, desarrollada con React Native, ofrece un
   width="200"/>
   <img src="./assets/Agregarperfil.png" alt="Pantalla de Registro" width="200"/>
   <img src="./assets/Ventas.png" alt="Lista de Productos" width="200"/>
-  <img src="./assets/Screenshot_2024-07-27-16-35-48-296_host.exp.exponent.png" alt="Perfil de Usuario" width="200"/>
+  <img src="./assets/detalles.png" alt="Detalles del Productos" width="200"/>
   <img src="./assets/subirProductos.png" alt="Agregar Producto" width="200"/>
+  <img src="./assets/Screenshot_2024-07-27-16-35-48-296_host.exp.exponent.png" alt="Perfil de Usuario" width="200"/>
 </div>
 
 ## Contribución
